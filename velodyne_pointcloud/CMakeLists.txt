@@ -112,4 +112,18 @@ if(BUILD_TESTING)
   add_subdirectory(tests)
 endif()
 
+ament_export_include_directories(include)
+ament_export_dependencies(
+  diagnostic_updater
+  eigen
+  geometry_msgs
+  message_filters
+  pcl
+  rclcpp
+  sensor_msgs
+  tf2
+  tf2_ros
+  velodyne_msgs
+)
+ament_export_libraries(velodyne_rawdata velodyne_cloud_types)
 ament_package()
