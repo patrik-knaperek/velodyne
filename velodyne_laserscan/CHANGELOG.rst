@@ -2,8 +2,8 @@
 Changelog for package velodyne_laserscan
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.5.0 (2024-10-30)
+------------------
 * Clalancette/cmake cleanups (`#546 <https://github.com/ros-drivers/velodyne/issues/546>`_)
 * Update rolling ci (`#512 <https://github.com/ros-drivers/velodyne/issues/512>`_) (`#513 <https://github.com/ros-drivers/velodyne/issues/513>`_)
 * Contributors: Chris Lalancette, Joshua Whitley
