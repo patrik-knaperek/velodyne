@@ -1,6 +1,11 @@
 Change history
 ==============
 
+Forthcoming
+-----------
+* Clalancette/cmake cleanups (`#546 <https://github.com/ros-drivers/velodyne/issues/546>`_)
+* Contributors: Chris Lalancette
+
 2.4.0 (2023-05-27)
 ------------------
 
