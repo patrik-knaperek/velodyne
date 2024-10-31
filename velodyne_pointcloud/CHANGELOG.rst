@@ -1,8 +1,8 @@
 Change history
 ==============
 
-Forthcoming
------------
+2.5.1 (2024-10-31)
+------------------
 * Fix compiling on RHEL-8. (`#549 <https://github.com/ros-drivers/velodyne/issues/549>`_)
 * Contributors: Chris Lalancette
 
